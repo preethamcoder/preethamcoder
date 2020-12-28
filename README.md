@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Preetham, welcome to my GitHub page! 
+
+I am a firm believer in the fact that a computer, if used correctly, can replicate a human in every possible way.
 <!--
 **preethampython101/preethampython101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
