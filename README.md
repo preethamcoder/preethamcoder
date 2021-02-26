@@ -3,6 +3,7 @@
 I am Preetham, welcome to my GitHub page! 
 
 I am a firm believer in the fact that a computer, if used correctly, can replicate a human in every possible way. 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <!--
 **preethampython101/preethampython101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
