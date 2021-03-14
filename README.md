@@ -6,6 +6,11 @@ I am a firm believer in the fact that a computer, if used correctly, can replica
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width ="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/><br><br>
 [![Preetham's github stats](https://github-readme-stats.vercel.app/api?username=preethampython101&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/preethampython101/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.preethampython101.vercel.app/api/top-langs/?username=preethampython101&layout=compact&theme=material-palenight" />
+</a>
+
 <!--
 **preethampython101/preethampython101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
