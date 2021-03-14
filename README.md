@@ -8,7 +8,7 @@ I am a firm believer in the fact that a computer, if used correctly, can replica
 
 <a href="https://github.com/preethampython101/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.preethampython101.vercel.app/api/top-langs/?username=preethampython101&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.preethampython1011.vercel.app/api/top-langs/?username=preethampython101&layout=compact&theme=material-palenight" />
 </a>
 
 <!--
