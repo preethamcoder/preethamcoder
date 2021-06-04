@@ -9,6 +9,11 @@ I am a firm believer in the fact that a computer, if used correctly, can replica
 <a href="https://github.com/preethampython101/github-readme-stats">
   <img align="center" src="https://github-readme-stats.preethampython101.vercel.app/api/top-langs/?username=preethampython101&layout=compact&theme=material-palenight"/>
 </a>
+
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=preethampython101&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=000000" />
+
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethampython101&exclude_repo=github-readme-stats,preethampython101.github.io" />
+
 <!--
 **preethampython101/preethampython101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
