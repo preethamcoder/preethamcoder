@@ -7,14 +7,14 @@ I am a firm believer in the fact that a computer, if used correctly, can replica
 [![Preetham's github stats](https://github-readme-stats.vercel.app/api?username=preethampython101&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethampython101&exclude_repo=github-readme-stats,preethampython101.github.io" />
 
-<!---<a href="https://github.com/preethampython101/github-readme-stats">
-<img align="center" src="https://github-readme-stats.preethampython101.vercel.app/api/top-langs/?username=preethampython101&layout=compact&theme=material-palenight"/>
+<!---<a href="https://github.com/preethamcoder/github-readme-stats">
+<img align="center" src="https://github-readme-stats.preethamcoder.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
 </a>-->
 
 <img align="center" src="https://github-readme-stats.preethampython101.vercel.app/api/top-langs/?username=preethampython101&layout=compact&theme=material-palenight"/>
 
 <!--
-**preethampython101/preethampython101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**preethamcoder/preethamcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
