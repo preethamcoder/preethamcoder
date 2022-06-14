@@ -12,9 +12,6 @@ I am a firm believer in the fact that a computer, if used correctly, can replica
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
-
-
 <!--
 **preethamcoder/preethamcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
