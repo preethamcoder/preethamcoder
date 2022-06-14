@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Preetham, welcome to my GitHub page! 
+I am Preetham, welcome to my GitHub page!
+
+<img src="https://komarev.com/ghpvc/?username=preethamcoder" alt="preetham:)" />
 
 I am a firm believer in the fact that a computer, if used correctly, can replicate a human in every possible way. An aspiring Data Scientist and AI/ML engineer with a perennial love for problem-solving and Mathematics.<br><br>Proficient in some, learning some, and a complete noob at JS. Will get there, eventually!<br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width ="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/><br><br>
