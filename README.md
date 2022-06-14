@@ -8,10 +8,11 @@ I am a firm believer in the fact that a computer, if used correctly, can replica
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&exclude_repo=github-readme-stats,preethamcoder.github.io" />
 
 <a href="https://github.com/preethamcoder/github-readme-stats">
-<img align="center" src="https://github-readme-stats.preethamcoder.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
 </a>
 
-<img align="center" src="https://github-readme-stats.preethamcoder.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
 
 
 <!--
