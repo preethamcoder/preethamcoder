@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://tokei.rs/b1/github/preethamcoder/GSU-Code)
+![](https://tokei.rs/b1/github/preethamcoder/)
 
 <img src="https://komarev.com/ghpvc/?username=preethamcoder" alt="preetham:)" />
 I am Preetham, welcome to my GitHub page!
